@@ -82,4 +82,10 @@ Dementia is a general term for loss of memory and other mental abilities severe 
 ### Atlas Scaling Factor   (ASF)
 A unified approach for morphometric and functional data analysis in young, old, and demented adults using automated atlas-based head size normalization: reliability and validation against manual measurement of total intracranial volume.
 
-Basically, total intracranial volume is found to correlate with the determinant of the transform matrix used to align an image with an atlas. The work demonstrates that a one-parameter scaling factor provides a reasonable TIV estimation
+Basically, total intracranial volume is found to correlate with the determinant of the transform matrix used to align an image with an atlas. The work demonstrates that a one-parameter scaling factor provides a reasonable TIV estimation.
+
+
+### Files structures
+dataset.csv -> OASIS-2 Dataset
+dementia.ipynb -> It is implementation without feature elimination
+dementia_updated -> It is implementation with feature elimination
