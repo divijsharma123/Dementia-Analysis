@@ -88,4 +88,4 @@ Basically, total intracranial volume is found to correlate with the determinant 
 ### Files structures
 dataset.csv -> OASIS-2 Dataset<br>
 dementia.ipynb -> It is implementation without feature elimination<br>
-dementia_updated -> It is implementation with feature elimination
+dementia_updated.ipynb -> It is implementation with feature elimination
